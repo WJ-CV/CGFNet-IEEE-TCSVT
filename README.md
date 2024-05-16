@@ -2,6 +2,7 @@
 Cross-Guided Fusion Network for RGB-T Salient Object Detection
 ---
 This paper has been online published by IEEE Transactions on Circuits and Systems for Video Technology.
+
 [Paper link](https://ieeexplore.ieee.org/document/9493207)  DOI: 10.1109/TCSVT.2021.3099120
   
 Network Architecture
