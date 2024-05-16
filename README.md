@@ -1,6 +1,4 @@
-CGFNet
-===
-
+# CGFNet
 Cross-Guided Fusion Network for RGB-T Salient Object Detection
 ---
 The paper has been online published by IEEE Transactions on Circuits and Systems for Video Technology.
